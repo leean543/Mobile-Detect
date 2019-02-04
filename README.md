@@ -54,4 +54,4 @@ Added 3 new methods: isMobileFast, isTabletFast and isPhoneFast.
 Version 2.8.2-dev for 2.8.x of Mobile Detect
 
 
-[<img width="50%" height="50%" src="https://i.imgur.com/S56G1nl.png">](https://www.browserstack.com)
+[<img width="30%" height="30%" src="https://i.imgur.com/S56G1nl.png">](https://www.browserstack.com)
