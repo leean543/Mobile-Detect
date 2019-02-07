@@ -1,11 +1,18 @@
 ![alt text](https://i.imgur.com/dep9jTz.png)
 
+
+
 ## Class to increase the performance of Mobile Detect lib.
 
 https://github.com/leean543/Mobile-Detect
 
 ### Requires Mobile Detect
 https://github.com/serbanghita/Mobile-Detect
+
+Developed with the support of
+
+[<img  height="30" src="https://signup.saucelabs.com/static/654e56cd1f352549040b86c70e38d345.png">](https://saucelabs.com/)
+
 
 ## Performance
 ## Up to 9 times faster.
@@ -54,4 +61,4 @@ Added 3 new methods: isMobileFast, isTabletFast and isPhoneFast.
 Version 2.8.2-dev for 2.8.x of Mobile Detect
 
 
-[<img  height="60" src="https://www.lambdatest.com/static/images/logo.svg">](https://www.lambdatest.com/)
+[<img  height="20" src="https://www.lambdatest.com/static/images/logo.svg">](https://www.lambdatest.com/)
